@@ -1,0 +1,11 @@
+{
+    "name": "sjaswinder82/repository",
+    "description": "Gives you some repository methods for easy development.",
+    "authors": [
+        {
+            "name": "jaswinder",
+            "email": "jaswinder@aika.digital"
+        }
+    ],
+    "require": {}
+}
